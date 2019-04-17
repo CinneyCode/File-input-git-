@@ -1,0 +1,7 @@
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\bin\Debug\file input.exe.config
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\bin\Debug\file input.exe
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\bin\Debug\file input.pdb
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\obj\Debug\file input.csprojAssemblyReference.cache
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\obj\Debug\file input.csproj.CoreCompileInputs.cache
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\obj\Debug\file input.exe
+C:\Users\Cing Lun\Documents\C# Class\file input\file input\file input\obj\Debug\file input.pdb
